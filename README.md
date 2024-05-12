@@ -53,6 +53,7 @@ public class Exp9
 }
 ```
 # OUTPUT:
-![alt text](image.png)
+![image](https://github.com/Migaleyy/19AI308-Object-Oriented-Programming-using-CSharp-Exp-9---Interface-with-abstract-methods/assets/118262199/54e338a4-5aaf-4038-9c7a-efb681c83b3a)
+
 # RESULT:
 Thus, a C# program has created for developing a small bank application by declaring deposit() and withdraw() as an abstract methods in the interface and it is executed and verified successfully.
